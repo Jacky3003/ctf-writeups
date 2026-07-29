@@ -2,6 +2,8 @@
 
 ## Challenge
 
+Goal is to find out the hidden aspect for the given image file, and look into decoding the hidden message given the small hints.
+
 ## Step 1: File Analysis
 
 Here are the following 3 shell commands that were used to extract information out of ```img.jpg```, where the former file is passed in as the first argument:
