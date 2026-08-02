@@ -7,3 +7,4 @@ List of various completed CTF challenges with write up solutions.
 | Name of Source  | Link  |
 |---|---|
 |PicoCTF|https://www.cylabacademy.org/|
+|UniversalCTF|https://ctf.uctf.io/|
